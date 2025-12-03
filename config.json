@@ -1,0 +1,18 @@
+{
+  "base_url":"https://quotes.toscrape.com/",
+  "url_for_login": "https://quotes.toscrape.com/login",
+  "url_for_page": "https://quotes.toscrape.com/page",
+  "username": "test_acc",
+  "password": 123123,
+
+  "pages_to_scrape": 10,
+  "max_pages": 15,
+  "request_timeout": 10,
+  "max_retries": 3,
+
+  "logger_path": "script.log",
+  "output_file": "output_file.json",
+  "author_output_file": "author_output_file.json"
+
+
+}
