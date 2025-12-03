@@ -11,6 +11,11 @@
 - Результат работы скрипта храниться в ./qoutes/files
 
 ---
+### Пример команд
+
+- python main.py --pages 3 (Парсить 3 страницы)
+- python main.py --output results.json (Сохранить в другой файл)
+- python main.py --author "Albert Einstein" (Найти цитаты автора)
 
 ## Зависимости
 
